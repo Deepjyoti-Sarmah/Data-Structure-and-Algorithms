@@ -15,7 +15,7 @@ Topic covered:
  array                  
  recursion
  Dynamic Programing  
- bit mnipulation   
+ bit manipulation   
  set
  Hashing              
  fenwickTree           
