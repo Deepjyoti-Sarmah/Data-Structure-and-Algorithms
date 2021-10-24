@@ -1,0 +1,1 @@
+{"name":"Local: mergeKsortedArray","url":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\Heap\\mergeKsortedArray.cpp","tests":[{"id":1619854770333,"input":"3\n3 1 4 7\n2 3 5\n3 2 6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\Heap\\mergeKsortedArray.cpp","group":"local","local":true}

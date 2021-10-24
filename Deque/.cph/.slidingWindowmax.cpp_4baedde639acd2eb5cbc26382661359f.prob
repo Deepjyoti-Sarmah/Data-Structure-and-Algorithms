@@ -1,0 +1,1 @@
+{"name":"Local: slidingWindowmax","url":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\Deque\\slidingWindowmax.cpp","tests":[{"id":1615192109530,"input":"4 2\n1 2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\Deque\\slidingWindowmax.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: SmallestSubsequenceWithSumK","url":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\Heap\\SmallestSubsequenceWithSumK.cpp","tests":[{"id":1619941260272,"input":"5 12\n1 1 3 2 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\Heap\\SmallestSubsequenceWithSumK.cpp","group":"local","local":true}

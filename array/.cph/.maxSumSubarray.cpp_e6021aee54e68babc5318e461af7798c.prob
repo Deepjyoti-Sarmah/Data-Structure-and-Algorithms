@@ -1,0 +1,1 @@
+{"name":"Local: maxSumSubarray","url":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\array\\maxSumSubarray.cpp","tests":[{"id":1607068100720,"input":"5 \n-1 4 -6 7 -4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\array\\maxSumSubarray.cpp","group":"local","local":true}

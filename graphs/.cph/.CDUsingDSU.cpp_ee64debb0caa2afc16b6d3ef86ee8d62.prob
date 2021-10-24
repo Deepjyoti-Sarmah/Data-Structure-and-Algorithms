@@ -1,0 +1,1 @@
+{"name":"Local: CDUsingDSU","url":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\graphs\\CDUsingDSU.cpp","tests":[{"id":1622547037039,"input":"4 4\n0 1\n1 2\n2 3\n3 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\graphs\\CDUsingDSU.cpp","group":"local","local":true}

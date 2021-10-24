@@ -1,0 +1,1 @@
+{"name":"Local: UpdateIT_SPOJ","url":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\fenwickTree\\UpdateIT_SPOJ.cpp","tests":[{"id":1629479742112,"input":"1\n5 3\n0 1 7\n2 4 6\n1 3 2\n3\n0\n3\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\fenwickTree\\UpdateIT_SPOJ.cpp","group":"local","local":true}

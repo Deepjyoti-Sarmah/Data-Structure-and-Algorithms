@@ -1,0 +1,1 @@
+{"name":"Local: indianCoinChange","url":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\greedy\\indianCoinChange.cpp","tests":[{"id":1620627868183,"input":"10\n1 2 5 10 20 50 100 200 500 2000\n350","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\greedy\\indianCoinChange.cpp","group":"local","local":true}

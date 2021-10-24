@@ -1,0 +1,1 @@
+{"name":"Local: surroundedElements","url":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\graphs\\surroundedElements.cpp","tests":[{"id":1623431664587,"input":"3 3\nO O X \nX O O\nX O X","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\graphs\\surroundedElements.cpp","group":"local","local":true}

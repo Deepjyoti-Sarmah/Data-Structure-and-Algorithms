@@ -1,0 +1,1 @@
+{"name":"Local: Expedi","url":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\greedy\\Expedi.cpp","tests":[{"id":1620978968535,"input":"1\n4\n4 4\n5 2\n11 5 \n15 10 \n25 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Deepjyoti\\Desktop\\APC++\\greedy\\Expedi.cpp","group":"local","local":true}
